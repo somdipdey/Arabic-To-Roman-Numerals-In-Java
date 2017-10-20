@@ -5,13 +5,19 @@ Use this project to convert Arabic numerals to Roman numerals easily and efficie
 
 This is the Root directory
 ::> bin (contains two subfolders)
+
     -> mainRomanNumeralConversionProgram (contains 4 files)
+    
     -> testsForRomanNumeralConversion (contains 4 files)
 
 ::> src (contains two subfolders and one README.txt)
+
     -> mainRomanNumeralConversionProgram (contains 4 files)
+    
     -> testsForRomanNumeralConversion (contains 4 files)
+    
     -> README.txt (More details and further explanation)
+    
 
 Details of the project structure can be found from here --> https://github.com/somdipdey/Arabic-To-Roman-Numerals/blob/master/STRUCTURE-README.txt
 
@@ -27,22 +33,26 @@ is the sub folder containing all the java files for ArabicToRomanNumeralGenerato
 ## src/TestsForRomanNumeralConversion 
 is the sub folder containing all the java files to test the execution of the solution
 
-## Note: 
-Compile and run the Program.java and other associated .java files in src/MainRomanNumeralConversionProgram to see the solution in action.
-Compile and run the Program.java and other associated .java files in src/TestsForRomanNumeralConversion to perform tests to check quality of the solution.
-
-
-## Coding Kata - Roman Numerals
+# The Challenge Solved Here -> Coding Kata - Roman Numerals
 In whatever language you prefer, write a class that implements the following interface (example given in Java):
 	public interface RomanNumeralGenerator {
+	
 	   public String generate(int number); 
+	   
 	}
+	
 	For example, see the following sample inputs and outputs: 
+	
 	1 = “I” 
+	
 	5 = “V” 
+	
 	10 = “X” 
+	
 	20 = “XX” 
+	
 	3999 = “MMMCMXCIX”
+	
 	----------------------------------------------------------
 	----------------------------------------------------------
 	
@@ -53,6 +63,11 @@ In whatever language you prefer, write a class that implements the following int
 	In the project named, TestsForRomanNumeralConversion, you will find test cases to check if the implementation of RomanNumeralGenerator interface is correct or not. In this project Program.java is the entry point. So just compile and run the Program.java to check whether all the test cases pass successfully or not.
 
 ## Note: 
+
+Compile and run the Program.java and other associated .java files in src/MainRomanNumeralConversionProgram to see the solution in action.
+
+Compile and run the Program.java and other associated .java files in src/TestsForRomanNumeralConversion to perform tests to check quality of the solution.
+
 To compile the solution using ‘javac’ then use the following command in your terminal:
 
 $ javac -d .  Program.java ArabicToRomanNumeralGenerator.java ArabicToRomanNumeralDictionary.java RomanNumeralGenerator.java
