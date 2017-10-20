@@ -3,7 +3,7 @@ Use this project to convert Arabic numerals to Roman numerals easily and efficie
 
 # Structure of files in this directory:
 
-Coding-Kata-RomanNumerals------------ Main directory
+This is the Root directory
 |
 |____bin (contains two subfolders)
 |     |
@@ -21,6 +21,7 @@ Coding-Kata-RomanNumerals------------ Main directory
       |
 	    |____README.txt (More details and further explanation)
 
+Details of the project structure can be found from here --> https://github.com/somdipdey/Arabic-To-Roman-Numerals/blob/master/STRUCTURE-README.txt
 
 ## bin/MainRomanNumeralConversionProgram 
 is the sub folder containing program executables for ArabicToRomanNumeralGenerator
