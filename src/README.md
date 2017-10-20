@@ -1,4 +1,4 @@
-## BBC Coding Kata - Roman Numerals
+## Coding Kata - Roman Numerals
 In whatever language you prefer, write a class that implements the following interface (example given in Java):
 	public interface RomanNumeralGenerator {
 	   public String generate(int number); 
