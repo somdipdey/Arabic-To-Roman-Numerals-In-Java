@@ -2,11 +2,11 @@
 
 Coding-Kata-RomanNumerals------------ Main directory
 |
-|____bin (contains two subfolders)
+|____bin (contains two subfolders)<br/>
 |     |
-|	  |____MainRomanNumeralConversionProgram (contains 4 files)
+|	  |____MainRomanNumeralConversionProgram (contains 4 files)<br/>
 |	  |
-|	  |____TestsForRomanNumeralConversion (contains 4 files)
+|	  |____TestsForRomanNumeralConversion (contains 4 files)<br/>
 |
 |
 |
